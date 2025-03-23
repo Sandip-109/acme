@@ -1,7 +1,0 @@
-{
-    "installCommand": "rm -f pnpm-lock.yaml && npm install --force --legacy-peer-deps",
-    "buildCommand": "npm run build",
-    "engines": {
-        "node": ">=18.0.0"
-    }
-}
